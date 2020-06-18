@@ -1,6 +1,6 @@
 baseurl = "https://1110sillabo.netlify.app/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "A Blog Build with CLI"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
@@ -14,10 +14,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    url = "https://github.com/1110sillabo"
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    name = "Medium"
+    url = "https://medium.com/@guglielmofeis"
 
 [params]
     description = "A website built through Hugo and blogdown."
