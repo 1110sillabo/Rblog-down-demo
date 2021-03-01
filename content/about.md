@@ -7,7 +7,7 @@ Test for a new blog, needed to have something more dynamic and usable than actua
 
 Thanks [Alison](https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/)!
 
-Oh, I wrote [that book on Digital Humanities]() and before learning about blogdown, I started a website over at www.thegui.eu.
+Oh, I wrote [that book on Digital Humanities](https://leanpub.com/programming-digital-humanities-python-for-academia) and before learning about blogdown, I started a website over at www.thegui.eu.
 
 # Now for the Nice Yihui's Sample...
 
